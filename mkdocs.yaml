@@ -1,0 +1,11 @@
+site_name: team-michael-sousa
+site_description: "Main documentation for team-michael-sousa project"
+repo_url: https://github.com/xgeeks-geekathon/team-michael-sousa.git
+edit_uri: edit/master/docs
+
+# plugins:
+#   - techdocs-core
+
+# For sidebar navigation
+nav:
+  - Getting Started: "index.md"
